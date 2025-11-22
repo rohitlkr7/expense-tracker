@@ -67,15 +67,15 @@ const Register = () => {
 
       {/* Fade Animation */}
       <style>
-        {`
+        {/*     
         .animate-fadeIn {
           animation: fadeIn 0.4s ease-out;
         }
         @keyframes fadeIn {
           0% { opacity: 0; transform: scale(0.9); }
           100% { opacity: 1; transform: scale(1); }
-        }
-      `}
+        } */}
+      
       </style>
     </div>
   );
